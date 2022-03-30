@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../typescript-uwu"
+		}
+	],
+	"settings": {
+		"deno.lint": true,
+		"deno.unstable": true,
+		"discord.enabled": true,
+		"liveServer.settings.multiRootWorkspaceName": "typescript-uwu"
+	}
+}
